@@ -1,4 +1,4 @@
-# Few-Shots-For-Good-Promp
+# Few-Shots-For-Good-Prompt
 
 ## 项目简介
 
